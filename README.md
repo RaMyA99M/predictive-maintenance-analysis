@@ -24,6 +24,9 @@ Predictive Maintenance Classification Dataset (Kaggle)
 - Failed cases exhibit higher tool wear and torque on average
 - Early monitoring of wear metrics could reduce unexpected failures
 
+### Failure Rate by Machine Type
+![Failure Rate by Machine Type](figures/failure_rate_by_type.png)
+
 ## Recommendations
 - Implement threshold-based monitoring for tool wear
 - Prioritize preventive maintenance for high-risk machine types
