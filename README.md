@@ -13,7 +13,6 @@ Predictive Maintenance Classification Dataset (Kaggle)
 ## Tools Used
 - SQL (SQLite)
 - Python (pandas, matplotlib)
-- Jupyter Notebook
 
 ## Key Analysis
 - Calculated overall and segmented failure rates using SQL
